@@ -14,7 +14,7 @@
 const quangpro1610 = {
   pronouns: "He" | "his",
   code: [Javascript, jQuery, HTML, CSS, PHP],
-  plaform: ["wordpress"],
+  plaform: [WordPress],
   techCommunities: {
                       coorganizer: "Freelance",
                       speaker: "Vietnamese",
