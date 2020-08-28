@@ -9,4 +9,8 @@
   <a href="https://raw.githubusercontent.com/quangpro1610/quangpro1610/master/resources/quang.mp3">How to pronounce my name!</a></br>
   <img src="https://github-readme-stats.vercel.app/api/?username=quangpro1610&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangpro1610)](https://github.com/quangpro1610/github-readme-stats)
+<p align="center">
+	<a href="https://github.com/muskanrani/github-readme-stats">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangpro1610" />
+	</a>
+</p>
