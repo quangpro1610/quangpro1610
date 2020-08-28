@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: quangpro1610](https://img.shields.io/twitter/follow/quangpro1610?style=social)](https://twitter.com/quangpro1610)
-[![Linkedin: quangpro1610](https://img.shields.io/badge/-quangpro1610-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quangpro1610/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: quangpro1610](https://img.shields.io/badge/-quangpro1610-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quangpro1610/)](https://www.linkedin.com/in/quangpro1610/)
 [![GitHub quangpro1610](https://img.shields.io/github/followers/quangpro1610?label=follow&style=social)](https://github.com/quangpro1610)
 
 
