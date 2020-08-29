@@ -34,10 +34,6 @@ const quangpro1610 = {
 <a href= "https://twitter.com/quangpro1610" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 <p align="center">
-  <a href="https://raw.githubusercontent.com/quangpro1610/quangpro1610/master/resources/quang.mp3">How to pronounce my name!</a></br>
-  <img src="https://github-readme-stats.vercel.app/api/?username=quangpro1610&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
-</p>
-<p align="center">
 	<a href="https://github.com/muskanrani/github-readme-stats">
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangpro1610" />
 	</a>
