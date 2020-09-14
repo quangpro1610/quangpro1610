@@ -1,6 +1,6 @@
 <h2> Hi, I'm Quang Hoang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.imgur.com/m5Ie4P7.gif">
-<p><em>Information Technology at <a href="http://hueic.edu.vn/en-us/">Hue Industrial College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>WordPress Dev at <a href="https://www.vn.freelancer.com/">Freelancer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Information Technology at <a href="http://hueic.edu.vn/en-us/hueic.aspx">Hue Industrial College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>WordPress Dev at <a href="https://www.vn.freelancer.com/">Freelancer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: quangpro1610](https://img.shields.io/twitter/follow/quangpro1610?style=social)](https://twitter.com/quangpro1610)
