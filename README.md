@@ -1,6 +1,6 @@
 <h2> Hi, I'm Quang Hoang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.imgur.com/m5Ie4P7.gif">
-<p><em>Information Technology at <a href="http://hueic.edu.vn/en-us/hueic.aspx">Hue Industrial College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>WordPress Dev at <a href="https://www.vn.freelancer.com/">Freelancer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Information Technology at <a href="http://hueic.edu.vn/en-us/hueic.aspx" target="_blank">Hue Industrial College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Dev at <a href="https://www.upwork.com/freelancers/~0122c06233c4053bf1" target="_blank">Upwork</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: quangpro1610](https://img.shields.io/twitter/follow/quangpro1610?style=social)](https://twitter.com/quangpro1610)
@@ -34,7 +34,7 @@ const quangpro1610 = {
 <a href= "https://twitter.com/quangpro1610" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 <p align="center">
-	<a href="https://github.com/muskanrani/github-readme-stats">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangpro1610" />
-	</a>
+    <a href="https://github.com/muskanrani/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangpro1610" />
+    </a>
 </p>
