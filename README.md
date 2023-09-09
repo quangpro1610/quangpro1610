@@ -1,10 +1,10 @@
 [![@quangpro1610's Holopin board](https://holopin.io/api/user/board?user=quangpro1610)](https://holopin.io/@quangpro1610)
-<p align="left">
+<p align="center">
 <a href="https://cloud.appwrite.io/card/64362296e24b0be49933">
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64362296e24b0be49933" alt="Appwrite Cloud Card" />
 </a>
 </p>
-<p align="right">
+<p align="center">
 <a href="https://makers.appwrite.io/quangpro1610">
     <img src="https://appwrite.io/cards/makers/quangpro1610" alt="quangpro1610's Maker Card" width="350"/>
 </a>
