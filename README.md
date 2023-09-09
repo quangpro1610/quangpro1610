@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 <a href="https://makers.appwrite.io/quangpro1610">
-    <img src="https://appwrite.io/cards/makers/quangpro1610" alt="quangpro1610's Maker Card" />
+    <img src="https://appwrite.io/cards/makers/quangpro1610" alt="quangpro1610's Maker Card" width="350"/>
 </a>
 </p>
 <h2> Hi, I'm Quang Hoang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
