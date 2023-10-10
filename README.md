@@ -4,11 +4,6 @@
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64362296e24b0be49933" alt="Appwrite Cloud Card" />
 </a>
 </p>
-<p align="center">
-<a href="https://makers.appwrite.io/quangpro1610">
-    <img src="https://appwrite.io/cards/makers/quangpro1610" alt="quangpro1610's Maker Card" width="350"/>
-</a>
-</p>
 <h2> Hi, I'm Quang Hoang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.imgur.com/m5Ie4P7.gif">
 <p><em>Information Technology at <a href="http://hueic.edu.vn/en-us/hueic.aspx" target="_blank">Hue Industrial College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Developer at <a href="https://www.upwork.com/freelancers/~0122c06233c4053bf1" target="_blank">Upwork</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
