@@ -1,7 +1,7 @@
 [![@quangpro1610's Holopin board](https://holopin.io/api/user/board?user=quangpro1610)](https://holopin.io/@quangpro1610)
 <h2> Hi, I'm Quang Hoang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.imgur.com/m5Ie4P7.gif">
-<p><em>Information Technology at <a href="https://hueic.edu.vn/" target="_blank">Hue Industrial College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Developer at <a href="https://www.upwork.com/freelancers/hoangquang" target="_blank">Upwork</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Information Technology at <a href="https://hueic.edu.vn/" target="_blank">Hue Industrial College</a></br>Freelance Developer at <a href="https://www.upwork.com/freelancers/hoangquang" target="_blank">Upwork</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: quangpro1610](https://img.shields.io/twitter/follow/quangpro1610?style=social)](https://twitter.com/quangpro1610)
